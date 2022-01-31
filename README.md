@@ -11,7 +11,9 @@ We test all of the above types of test cases on both the test.csv and test2.csv 
 # Usage
 The file-path and the date in YYYY-MM-DD format must be passed as arguments in the command line.
 The code can be run using the command:
-python3 most_active_cookie.py test.csv -d 2018-12-08
+
+$python3 most_active_cookie.py test.csv -d 2018-12-08
 
 The test case file can be run using:
-python3 test_most_active_cookie.py
+
+$python3 test_most_active_cookie.py
