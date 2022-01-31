@@ -5,6 +5,7 @@ This repository contains two main files: most_active_cookie.py and test_most_act
 2. There is only one most active cookie on the date given to us 
 3. There are multiple most active cookies on the date given to us
 4. The frequency of occurences of the most active cookie/(s) on the date given to us is more than one.
+
 We test all of the above types of test cases on both the test.csv and test2.csv log files.
 
 # Usage
